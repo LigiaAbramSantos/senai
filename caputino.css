@@ -1,0 +1,27 @@
+h1{
+    background-color:tan;
+    color: brown;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color:rgb(152, 84, 58);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color:rgb(135, 116, 102);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:rgb(141, 109, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:beige;
+}
+ul{
+    color: rgb(190, 136, 82);
+}
+figcaption{
+    color:rgb(135, 116, 102) ;
+}
