@@ -1,0 +1,50 @@
+*{
+    margin:0%;
+}
+
+p{
+    color: white;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin: 0%;
+}
+
+button{
+    background-color:#ff00c6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.beneficios{
+    height: 90vh;
+    background-image: url("fundobeneficios.png");
+    padding: 20px;
+}
+.tudodebom{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1%;
+}
+.oquetemdebom{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.oquetemdebom img{
+    text-align: center;
+    height: 400px;
+}
+
+.butao{
+    text-align: center;
+    padding-top: 5%;
+}
